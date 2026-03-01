@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nolib-py"
+version = "1.0.0"
+description = "no python library"
+readme = "readpy.md"
+authors = [{name = "noanmee42"}]
+dependencies = []
